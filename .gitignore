@@ -1,0 +1,5 @@
+.tox
+.idea
+*.pyc
+bower_components
+_build

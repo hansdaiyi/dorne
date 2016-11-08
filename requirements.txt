@@ -1,0 +1,6 @@
+gunicorn
+Django==1.10
+ipython
+requests
+sphinx
+sphinx_rtd_theme
